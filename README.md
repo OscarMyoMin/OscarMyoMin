@@ -6,6 +6,11 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarMyoMin&hide=TeX&layout=compact" alt="OscarMyoMin's github stats">
+  </a>
+</p>
+<p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=OscarMyoMin&hide_border=true&show_icons=true" alt="OscarMyoMin's github stats"></a>
 </p>
 
