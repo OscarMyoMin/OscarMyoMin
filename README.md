@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://www.facebook.com/oscar.m.min.1">Facebookk</a></strong> |
+  <strong><a href="https://www.facebook.com/oscar.m.min.1">Facebook</a></strong> |
   <strong><a href="#">Twitter</a></strong> |
   <strong><a href="mailto:oscarmyomin@gmail.com">Gmail</a></strong> |
   <strong><a href="#">Youtube</a></strong>
