@@ -2,7 +2,7 @@
   <a href="#"><img src="pngwing.com.png" alt="Oscar Myo Min Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Oscar Myo Min</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://www.facebook.com/oscar.m.min.1">Oscar Myo Min</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
