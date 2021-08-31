@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=OscarMyoMin&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarMyoMin&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center" >
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarMyoMin&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=OscarMyoMin&theme=flat&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
