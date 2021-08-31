@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 
 <p align="center" >
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarMyoMin&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=OscarMyoMin&show_icons=true&theme=tokyonight"/>
+  </a>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=OscarMyoMin&theme=flat&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
