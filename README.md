@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="banner.png" alt="Oscar Myo Min Banner"></a>
+  <a href="#"><img src="pngwing.com.png" alt="Oscar Myo Min Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Oscar Myo Min</a>!</h1>
