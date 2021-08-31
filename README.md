@@ -22,6 +22,3 @@
 </p>
 
 <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
-
-![](https://komarev.com/ghpvc/?username=Char-Al&style=flat-square&label=Views)
-![](https://badges.pufler.dev/visits/char-al/char-al?color=black&logo=github&style=flat-square)
