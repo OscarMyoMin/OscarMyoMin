@@ -10,7 +10,9 @@
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="">
   </a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OscarMyoMin&style=for-the-badge" alt="OscarMyoMin" /> </p>
+</p>
 <p align="center">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarMyoMin&hide=TeX&layout=compact&hide_border=true" alt="OscarMyoMin's github stats">
